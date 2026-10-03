@@ -2,10 +2,10 @@
 
 | | |
 |---|---|
-| **Project** | SauceDemo QA (personal portfolio project) |
+| **Project** | SauceDemo |
 | **Application under test** | https://www.saucedemo.com |
-| **Prepared by** | [Your Name] |
-| **Version / Date** | 1.0 / [date of execution] |
+| **Prepared by** | [Hisaan Sakhawat] |
+| **Version / Date** | 1.0 / [3/10/26] |
 | **Test type** | Manual, functional and UI testing |
 
 ---
