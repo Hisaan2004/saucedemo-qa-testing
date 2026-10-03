@@ -2,10 +2,10 @@
 
 | | |
 |---|---|
-| **Project** | SauceDemo QA (personal portfolio project) |
+| **Project** | SauceDemo |
 | **Application under test** | https://www.saucedemo.com |
-| **Tested by** | [Your Name] |
-| **Execution date** | [date] |
+| **Tested by** | [Hisaan Sakhawat] |
+| **Execution date** | [3/10/26] |
 | **Environment** | Google Chrome [version], [OS] |
 | **Related documents** | `test-plan.md`, `SauceDemo_Test_Cases.xlsx`, GitHub Issues |
 
@@ -110,4 +110,4 @@ Severity and priority below are proposed. Update the IDs to match your GitHub Is
 
 | Role | Name | Date |
 |---|---|---|
-| Tester | [Your Name] | [date] |
+| Tester | [Hisaan Sakhawat] | [3/10/26] |
